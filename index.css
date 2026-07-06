@@ -1,0 +1,45 @@
+body {
+    margin: 0;
+    background-color: #1B244A;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+    align-items: start;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.score
+{
+    color: #F94F6D;
+    background: black;
+    font-size: 50px;
+    margin: 0;
+    width: 100px;
+    height: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 6px;
+    font-family: 'Cursed Timer ULiL', sans-serif;
+    padding-top: 10px;
+                                                
+}
+.titles
+{
+    color:#EEEEEE;
+    margin: 20px 0 10px 0;
+    font-size: 25px;
+    
+}
+
+.btn 
+{
+    background: none;
+    color: #EEEEEE;
+    border: 1px solid #EEEEEE;
+    border-radius: 5px;
+    padding: 5px;
+}
